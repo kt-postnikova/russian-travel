@@ -1,0 +1,7 @@
+.place__paragraphs {
+    margin: 0;
+    grid-row-start: 2;
+    /* grid-row-end: span 5; */
+    grid-column-start: 2;
+
+}
