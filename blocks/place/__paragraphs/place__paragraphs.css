@@ -1,7 +1,18 @@
 .place__paragraphs {
-    margin: 0;
-    grid-row-start: 2;
-    /* grid-row-end: span 5; */
-    grid-column-start: 2;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-bottom: 49px;
+}
 
+@media screen and (min-width: 768px) {
+    .place__paragraphs {
+        margin-left: 0;
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .place__paragraphs {
+        margin: 0;
+    } 
 }
