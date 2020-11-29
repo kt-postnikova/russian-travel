@@ -1,5 +1,17 @@
 .footer__links {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
-    width: 466px;
+    min-height: 310px;
+    margin-bottom: 48px;
+}
+
+@media screen and (min-width: 768px) {
+    .footer__links {
+        flex-direction: row;
+        justify-content: space-between;
+        margin-bottom: 0;
+        width: 465px;
+        min-height: 0;
+    }
 }
