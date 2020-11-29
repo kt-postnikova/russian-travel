@@ -15,4 +15,8 @@
         font-size: 18px;
         line-height: 22px;
     }
+    .cover__subtitle {
+        width: 360px;
+        margin: auto;
+    }
 }
