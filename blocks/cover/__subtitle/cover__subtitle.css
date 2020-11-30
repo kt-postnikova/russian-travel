@@ -1,11 +1,10 @@
 .cover__subtitle {
     text-align: center;
     margin-top: 0;
-    margin-left: 16px;
-    margin-right: 16px;
     margin-bottom: 33px;
     font-size: 14px;
     line-height: 16px;
+    width: 288px;
 }
 
 @media screen and (min-width: 768px) {
