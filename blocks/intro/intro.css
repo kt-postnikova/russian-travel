@@ -1,33 +1,23 @@
 .intro {
-    margin-left: 16px;
-    margin-right: 16px;
-    margin-bottom: 64px;
+    width: 95%;
+    margin: 0 auto 64px auto;
 }
 
 @media screen and (min-width: 768px) {
     .intro {
-        margin-left: 24px;
-        margin-right: 24px;
         margin-bottom: 88px;
     }
 }
 
 @media screen and (min-width: 1024px) {
     .intro {
-        margin-left: 48px;
-        margin-right: 49px;
-        margin-bottom: 92px;
-        max-width: 690px;
+        width: 68%;
+        margin-left: 3%;
     }
 }
 
 @media screen and (min-width: 1280px) {
     .intro {
-        /* width: 690px; */
-        margin-left: 148px;
-        /* margin: auto; */
-        max-width: 984px;
-        margin: auto;
-        margin-bottom: 92px;
+    margin-left: 15%;
     }
 }
