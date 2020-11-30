@@ -1,6 +1,6 @@
 # Путешествие по России
 
-ссылка на проект: https://kt-postnikova.github.io/russian-travel/index.html
+ссылка на проект: https://kt-postnikova.github.io/russian-travel/index.html      
 проект представляет собой одностраничный лендинг с:
 
 - краткой информацией о путешествии по России
