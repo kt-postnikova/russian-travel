@@ -2,10 +2,15 @@
     font-size: 18px;
     line-height: 20px;
     color: #fff;
+    text-decoration: none;
 }
 
 .header__lang-link:nth-last-of-type(2n) {
     margin-right: 18px;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 
 @media screen and (min-width: 768px) {
